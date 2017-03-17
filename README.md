@@ -1,6 +1,7 @@
 # Machine Learning (ML) validation sweeps for finding optimal hyper-parameter settings.
 
-Simple, automatic code for both MLP and MoE algorithms to 'sweep' over hyper-parameters in order to find optimal values. Output consists of **_Correct Classification Rates_** (CCRs), written to an Excel file. Prior to running, load your Training - and Validation data into '*X_Train*', '*Y_Train*', '*X_Valid*' & '*Y_Valid*'.
+Simple, automatic code for both MLP and MoE algorithms to 'sweep' over hyper-parameters in order to find optimal values. Output consists of **_Correct Classification Rates_** (CCRs), written to an Excel file. <br>
+Prior to running, load your Training - and Validation data into '*X_Train*', '*Y_Train*', '*X_Valid*' & '*Y_Valid*'.
 
 
 ### MultiLayer Perceptron (MLP) 
